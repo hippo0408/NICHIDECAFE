@@ -85,6 +85,10 @@
         display: none;
     }
 
+    .menu p{
+    margin-top: -20px;
+    }
+    
     .menu-image{
         width: 95%;
     }
